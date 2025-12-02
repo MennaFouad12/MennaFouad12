@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | ReactJS | NextJS </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=MennaFouad12&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
   <a href="https://www.linkedin.com/in/menna-ahmed-236a55250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
   <a href="mm6331329@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red" /></a>
 </p>
